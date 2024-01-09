@@ -4,4 +4,4 @@ The Deutch-Jozsa (DJ) algorithm is a quantum algorithm used to decide if a given
 
 When run on real quantum computers at IBMQ, the error rate rises exponentially with the number of qubits.
 
-![Error-vs-Qubit-graph](Graph.png)
+<img src="Graph.png" alt="Qubits vs Error Graph" width="500" height="400">
